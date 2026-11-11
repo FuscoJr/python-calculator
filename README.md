@@ -1,5 +1,7 @@
 # Python Calculator
 
+> **Status: learning archive.** Historical Python learning exercise, created before my vocational retraining in software development. Development has ended; the original implementation and its known limitations are preserved.
+
 An early Python learning project containing several versions of an interactive calculator.
 
 The repository preserves the progression of the exercise in Python scripts and Jupyter notebooks. **V2 is the latest version.**
